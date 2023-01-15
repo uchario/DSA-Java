@@ -1,4 +1,4 @@
-package datastructures.factorial;
+package algorithms.factorial;
 
 public class Factorial {
     public static int factorial(int n){

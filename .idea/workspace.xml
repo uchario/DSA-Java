@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b3e2632-caf4-450f-a3a5-b88ed2ba870f" name="Changes" comment="" />
+    <list default="true" id="3b3e2632-caf4-450f-a3a5-b88ed2ba870f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sort/quicksort/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sort/quicksort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/factorial/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/factorial/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/factorial/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/factorial/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/bubblesort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/bubblesort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/bubblesort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/bubblesort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/insertion/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/insertion/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/insertion/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/mergesort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/mergesort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/mergesort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/mergesort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/selctionsort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/selctionsort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sort/selctionsort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/sort/selctionsort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/Classes/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/Classes/Cookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/Classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/Classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/binarysearchtree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/binarysearchtree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/binarysearchtree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/binarysearchtree/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/doublylinkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/graph/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/graph/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/hashtable/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/hashtable/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/hashtable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/hashtable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/linkedlist/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/linkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/pointers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/pointers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/queue/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/stack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/stack/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructures/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructures/stack/Stack.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JVJt5AXnFJv38ZYwztVZD5miCd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,7 +65,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
